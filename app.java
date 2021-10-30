@@ -1,4 +1,5 @@
 echo "what is your name my friend"
 read name
 echo "welcome $name
-echo "it is what is it""
+echo "it is what is it"
+echo "wekcome to ebay" 
